@@ -1,6 +1,6 @@
 # Magic Square Verifier in MIPS Assembly
 
-This repository contains a MIPS assembly program designed to verify if a given square matrix is a magic square. A magic square is a unique arrangement of numbers in an \(n \times n\) grid where the sums of the numbers in each row, column, and both main diagonals are identical. This project showcases the application of assembly language in solving algorithmic problems, making it an excellent resource for students and enthusiasts interested in computer architecture and low-level programming.
+This repository contains a MIPS assembly program designed to verify if a given square matrix is a magic square. A magic square is a unique arrangement of numbers in an n x n grid where the sums of the numbers in each row, column, and both main diagonals are identical. This project showcases the application of assembly language in solving algorithmic problems, making it an excellent resource for students and enthusiasts interested in computer architecture and low-level programming.
 
 ## Features
 
